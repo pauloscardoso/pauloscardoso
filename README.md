@@ -1,9 +1,9 @@
 ## Olá! Seja bem vindo ao meu GitHub
 
- 👋 Meu nome é Paulo.
- 👀 Estou interessado em desenvolvimento Front-End.
- 🌱 Atualmente estou realizando um bootcamp de desenvolvimento web, da empresa Digital Innovation One, utilizando Reactjs.
- 📞 Pode falar comigo por e-mail 📧 : paulocardoso19@live.com
+ - 👋 Meu nome é Paulo.
+ - 👀 Estou interessado em desenvolvimento Front-End.
+ - 🌱 Atualmente estou realizando um bootcamp de desenvolvimento web, da empresa Digital Innovation One, utilizando Reactjs.
+ - 📞 Pode falar comigo por e-mail 📧 : paulocardoso19@live.com
 
 ### Tecnologias que estou estudando
 <div style="display: inline_block"><br>
