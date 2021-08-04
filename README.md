@@ -1,11 +1,11 @@
-# Olá! Seja bem vindo ao meu GitHub
+## Olá! Seja bem vindo ao meu GitHub
 
 - 👋 Meu nome é Paulo.
 - 👀 Estou interessado em desenvolvimento Front-End.
 - 🌱 Atualmente estou realizando um bootcamp de desenvolvimento web, da empresa Digital Innovation One, utilizando Reactjs.
 - 📞 Pode falar comigo por e-mail 📧 : paulocardoso19@live.com
 
-## Tecnologias que estou estudando
+# Tecnologias que estou estudando
 <div style="display: inline_block"><br>
 <img align="center" alt="p-html5" height="40" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="p-css3" height="40" width="90" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -18,7 +18,7 @@
 </div>
 
 
-### Minhas redes sociais
+# Minhas redes sociais
 <div style="display: inline_block"><br>
 <a href="https://www.linkedin.com/in/paulo-sergio-cardoso-b76005109/" title="Linkedin do Paulo" target="_blank">
 <img align="center" alt="p-html5" height="40" width="90" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
