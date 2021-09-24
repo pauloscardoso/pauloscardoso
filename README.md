@@ -1,11 +1,11 @@
-## Olá! Seja bem vindo ao meu GitHub
+## Hi! Welcome to my GitHub
 
- - 👋 Meu nome é Paulo.
- - 👀 Estou interessado em desenvolvimento Front-End.
- - 🌱 Atualmente estou realizando um bootcamp de desenvolvimento web, da empresa Digital Innovation One, utilizando Reactjs.
- - 📞 Pode falar comigo por e-mail 📧 : paulocardoso19@live.com
+ - 👋 I'm Paulo, from Brazil.
+ - 👀 I'm interested in Front-End development.
+ - 🌱 I'm currently conducting a web development bootcamp, from Digital Innovation One company, using Html, CSS, JavaScript, Reactjs and Node..
+ - 📞 You can talk to me by email 📧 : paulocardoso19@live.com
 
-### Tecnologias que estou estudando
+### Technologies I am studying
 <div style="display: inline_block"><br>
 <img align="center" alt="p-html5" height="40" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="p-css3" height="40" width="90" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -18,9 +18,9 @@
 </div>
 
 
-### Minhas redes sociais
+### My social networks
 <div style="display: inline_block"><br>
-<a href="https://www.linkedin.com/in/paulo-cardoso-b76005109/" title="Linkedin do Paulo" target="_blank">
+<a href="https://www.linkedin.com/in/paulo-cardoso-b76005109/" title="Paulo's Linkedin" target="_blank">
 <img align="center" alt="p-html5" height="40" width="90" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 </div>
