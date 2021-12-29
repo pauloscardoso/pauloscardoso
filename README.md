@@ -2,7 +2,7 @@
 
  - 👋 I'm Paulo, from Brazil.
  - 👀 I'm interested in Software Engineering and Front-End development.
- - 🌱 I'm currently conducting a web development bootcamp, from Digital Innovation One company, using Html, CSS, JavaScript, Reactjs and Node.
+ - 🌱 I'm currently studying a web development bootcamp, from Digital Innovation One company, using Html, CSS, JavaScript, Reactjs, AWS, MongoDB, Docker and Node.
  - 📞 You can talk to me by email 📧 : paulocardoso19@live.com
 
 ### Technologies I'm studying:
