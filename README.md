@@ -1,4 +1,4 @@
-## Hello, World! Welcome to my GitHub
+## Hello, World! Welcome to my GitHub!
 
  - 👋 I'm Paulo, from Brazil.
  - 👀 I'm interested in Software Engineering and Front-End development.
