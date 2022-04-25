@@ -1,9 +1,16 @@
 ## Hello, World! Welcome to my GitHub!
 
  - 👋 I'm Paulo, from Brazil.
- - 👀 I'm interested in Software Engineering and Front-End development.
- - 🌱 I'm currently studying a web development bootcamp, from Digital Innovation One company, using Html, CSS, JavaScript, Reactjs, AWS, MongoDB, Docker and Node.
- - 📞 You can talk to me by email 📧 : paulocardoso19@live.com
+ - 👀 I'm Software Engineering, working as a Front-End and Mobile development.
+ 
+ - 🛠️ My current stack:
+    🌎 Front-end Web with React
+    📲 Front-end Mobile with React Native
+    📡 Back-end with Node.js
+    🛠️ Typescript
+    🧰 And more...
+    
+     - 📞 You can talk to me by email 📧 : paulocardoso19@live.com
 
 ### Technologies I'm studying:
 <div style="display: inline_block"><br>
