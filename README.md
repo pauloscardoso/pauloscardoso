@@ -1,16 +1,17 @@
 ## Hello, World! Welcome to my GitHub!
 
- - 👋 I'm Paulo, from Brazil.
- - 👀 I'm Software Engineering, working as a Front-End and Mobile development.
+ -  I'm Paulo, from Brazil. 👋
+ -  I'm Software Engineering, working as a Front-End and Mobile development.
  
- - 🛠️ My current stack:
-    🌎 Front-end Web with React
-    📲 Front-end Mobile with React Native
-    📡 Back-end with Node.js
-    🛠️ Typescript
+   🛠️ My current stack:
+ 
+    🌎 Front-end Web with React    
+    📲 Front-end Mobile with React Native    
+    📡 Back-end with Node.js    
+    🛠️ Typescript    
     🧰 And more...
     
-     - 📞 You can talk to me by email 📧 : paulocardoso19@live.com
+ - You can talk to me by email 📧 : paulocardoso19@live.com
 
 ### Technologies I'm studying:
 <div style="display: inline_block"><br>
