@@ -1,10 +1,10 @@
 ## Hello, World! Welcome to my GitHub!
 
  -  I'm Paulo, from Brazil. 👋
- -  I'm Software Engineering, working as a Front-End and Mobile development.
- 
+ -  I'm Software Engineering, working as Front-End and Mobile development.
+
    🛠️ My current stack:
- 
+      
     🌎 Front-end Web with React    
     📲 Front-end Mobile with React Native    
     📡 Back-end with Node.js    
