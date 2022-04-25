@@ -1,6 +1,6 @@
-## Hello, World! Welcome to my GitHub!
+## Hello, World! Welcome to my GitHub! 👋
 
- -  I'm Paulo, from Brazil. 👋
+ -  I'm Paulo, from Brazil. 
  -  I'm Software Engineering, working as Front-End and Mobile development.
 
    🛠️ My current stack:
