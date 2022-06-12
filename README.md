@@ -1,7 +1,7 @@
 ## Hello, World! Welcome to my GitHub! 👋
 
  -  I'm Paulo, from Brazil. 
- -  I'm Software Engineering, working as Front-End and Mobile development.
+ -  I'm Software Engineering, working as Mobile development at Spacecom Monitoramento.
 
    🛠️ My current stack:
       
