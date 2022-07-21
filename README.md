@@ -1,17 +1,17 @@
 ## Hello, World! Welcome to my GitHub! 👋
 
- -  I'm Paulo, from Brazil. 
- -  I'm Software Engineering, working as Mobile development at Spacecom Monitoramento.
+ -  I'm Paulo, live in Curtiba - Brazil...
+ -  I'm working with Software Engineering, dealing with Mobile development at Spacecom Monitoramento.
 
    🛠️ My current stack:
       
     🌎 Front-end Web with React    
-    📲 Front-end Mobile with React Native    
+    📲 Mobile with React Native    
     📡 Back-end with Node.js    
     🛠️ Typescript    
-    🧰 And more...
+    🧰 And others...
     
- - You can talk to me by email 📧 : paulocardoso19@live.com
+ - You can talk to me by email 📧 : paulocardoso19@live.com, or through my social networks.
 
 ### Technologies I'm studying:
 <div style="display: inline_block"><br>
