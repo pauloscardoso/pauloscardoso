@@ -1,6 +1,6 @@
 ## Welcome! 👋
 
- -  I'm working with Software Engineering, dealing with Mobile development at Spacecom Monitoramento.
+ -  I'm a developer and I'm working with React Native at Spacecom Monitoring.
 
    🛠️ My current stack:
       
@@ -9,9 +9,7 @@
     📡 Back-end with Node.js    
     🛠️ Typescript    
     🧰 And others...
-    
- - You can talk to me by email 📧 : paulocardoso19@live.com, or through my social networks.
-
+   
 ### Technologies I'm studying
 
 <div style="display: inline_block"><br>
