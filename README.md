@@ -1,6 +1,5 @@
-## Hello World! Welcome to my GitHub! 👋
+## Welcome! 👋
 
- -  I'm Paulo, live in Curtiba - Brazil...
  -  I'm working with Software Engineering, dealing with Mobile development at Spacecom Monitoramento.
 
    🛠️ My current stack:
