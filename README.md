@@ -1,5 +1,3 @@
-## Welcome! 👋
-
  -  I'm a developer and I'm working with React Native at Spacecom Monitoring.
 
    🛠️ My current stack:
