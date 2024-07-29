@@ -23,7 +23,7 @@ I'm a developer and I'm working with React Native at Spacecom Monitoring.
 
 ### My social networks:
 <div style="display: inline_block"><br>
-<a href="[https://www.linkedin.com/in/paulo-s-cardoso-b76005109/](https://www.linkedin.com/in/paulo-cardoso-b76005109/?locale=en_US)" title="Paulo's Linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/paulo-cardoso-b76005109/?locale=en_US" title="Paulo's Linkedin" target="_blank">
 <img align="center" alt="p-html5" height="40" width="90" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 </div>
