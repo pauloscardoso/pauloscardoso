@@ -2,11 +2,14 @@ I'm a software engineer and have been working with React and React Native for ab
 
    🛠️ My current stack:
       
-    Javascript
-    Typescript
-    React/React Native
-    I have been working with mobile applications for the longest time, investing a lot of time in developing scalable and well-written solutions, using the best design patterns such as MMVC and others.
-    Some of the skills I acquired working with React Native:
+   Javascript
+   Typescript
+   React/React Native
+   I have been working with mobile applications for the longest time, 
+   investing a lot of time in developing scalable and well-written solutions, 
+   using the best design patterns such as MMVC and others.
+   
+   Some of the skills I acquired working with React Native:
     - Publicação nas lojas Android e iOS.
     - Criação de CI/CD com Git Actions, Fastlane, Codepush e outros.
     - Gerenciamento de Estado com Context Api, Redux e Zustand.
