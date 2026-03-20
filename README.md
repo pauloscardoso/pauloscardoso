@@ -1,4 +1,4 @@
-I'm a software engineer and have been working with React and React Native for about 4 years.
+I'm a software engineer and have been working with React and React Native for about 5 years.
 
    🛠️ My current stack:
       
